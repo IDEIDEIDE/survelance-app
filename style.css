@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+}
+
+#start, #number_of_objects, #status{
+    font-size: 18px;
+}
+
+#copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    width:100%;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    margin-bottom: 0;
+}
+canvas{
+    box-shadow: 5px 5px 5px 5px white;
+    border-radius: 10px;
+}
